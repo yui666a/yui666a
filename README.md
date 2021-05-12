@@ -1,7 +1,13 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
-<!-- profile-green-animate.svg-->
+<!-- profile-green-animate.svg
+参照：　https://qiita.com/yoshi389111/items/4471c7a73f785fed4615
+-->
 
-### Hi there 👋
+| index | 日本語 | English |
+| :-- | -- | -- |
+| Name | yui666a | yui666a |
+grade | 学士4年 | 4th year bachelor 
+Department | 情報・経営システム工学課程　| Information and Management Systems Engineering
 
 <!--
 **yui666a/yui666a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
