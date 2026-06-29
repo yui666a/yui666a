@@ -11,6 +11,11 @@
 | Job | Frontend Engineer |
 | Background | Master's degree in Information and Management Systems Engineering |
 
+## LAPRAS Score
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ## Tech Stack
 
 ### Frontend
